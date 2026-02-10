@@ -2,6 +2,10 @@
 
 [PostCSS](https://github.com/postcss/postcss) plugin to transform CSS color function from editor draft of 'Color Module Level 4' specification to more compatible CSS.
 
+## Deprecated fork
+
+This fork to https://github.com/folio-org is no longer used.
+
 ## Deprecated
 
 **⚠️ `color()` was changed to `color-mod()`. See [postcss-color-mod-function](https://github.com/jonathantneal/postcss-color-mod-function).**
